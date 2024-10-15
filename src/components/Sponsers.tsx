@@ -46,7 +46,7 @@ const Sponsers = () => {
         </PopFadeInSection>
 
         <div>
-          <div className="text-center mb-10">
+          <div className="text-center px-1 mb-10">
             <FadeInSection>
               <div className="flex flex-col space-y-6 items-center">
                 <Image
@@ -61,7 +61,7 @@ const Sponsers = () => {
               </div>
             </FadeInSection>
 
-            <div className="mb-10">
+            <div className="mb-10 px-1">
               <FadeInSection>
                 <div className="flex space-y-6 flex-col items-center">
                   <Image
@@ -79,9 +79,9 @@ const Sponsers = () => {
               </FadeInSection>
             </div>
 
-            <div className="mb-10">
+            <div className="mb-10 px-1">
               <FadeInSection>
-                <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
+                <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 text-center">
                   <div className="flex flex-col items-center">
                     <Image
                       src="/sponsors/flatlogic.png"
@@ -126,9 +126,9 @@ const Sponsers = () => {
             </div>
           </div>
 
-          <div className="mb-10">
+          <div className="mb-10 px-1">
             <FadeInSection>
-              <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
+              <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 text-center">
                 <div className="flex flex-col items-center">
                   <Image
                     src="/sponsors/startup-news.png"
